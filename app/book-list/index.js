@@ -1,0 +1,1 @@
+require('./book-list.component')
